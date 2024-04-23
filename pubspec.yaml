@@ -39,6 +39,8 @@ dependencies:
   audioplayers: ^5.2.1
   http:
   assets_audio_player: ^3.1.1
+  smooth_page_indicator:
+  fk_toggle:
 
 
 dev_dependencies:
